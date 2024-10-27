@@ -1,6 +1,6 @@
 # news_app_2024
 
-A new Flutter project.
+https://github.com/user-attachments/assets/49b1b7e8-2dc8-4475-88ad-c2d6781a1ec2
 
 ## Getting Started
 
