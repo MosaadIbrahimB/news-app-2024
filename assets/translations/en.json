@@ -1,0 +1,21 @@
+{
+  "newsApp":"News App",
+  "settings":"Settings",
+  "language":"Language",
+  "titleLanguage":"English",
+ "english":"English",
+  "arabic":"Arabic",
+  "selectLanguage":"Select Language",
+  "sports":"Sports",
+  "general":"General",
+  "health":"Health",
+  "business":"Business",
+  "entertainment":"Entertainment",
+  "science":"Science",
+  "Sports":"Sports",
+  "General":"General",
+  "Health":"Health",
+  "Business":"Business",
+  "Entertainment":"Entertainment",
+  "Science":"Science"
+}
